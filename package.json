@@ -1,0 +1,26 @@
+{
+  "name": "dashboard",
+  "version": "0.0.1",
+  "description": "A custom dashboard with important work related and utility tools.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deepakbaliga/dashboard.git"
+  },
+  "author": "Deepak Bantwal Baliga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deepakbaliga/dashboard/issues"
+  },
+  "homepage": "https://github.com/deepakbaliga/dashboard#readme",
+  "devDependencies": {
+    "electron": "^3.0.10"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongoose": "^5.3.13"
+  }
+}
